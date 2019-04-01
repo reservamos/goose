@@ -7,7 +7,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/pressly/goose"
+	"github.com/reservamos/goose"
 )
 
 var (
